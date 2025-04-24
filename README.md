@@ -58,4 +58,6 @@ Built using non-blocking sockets, epoll/select, and robust error handling.
 
 ---
 
-<p align="center">Let’s build something great together 🚀</p>
+## And these are my Github status
+![](https://github-readme-stats.vercel.app/api?username=biltes&show_icons=true&hide_border=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=biltes&hide_border=true&include_all_commits=false&count_private=false&layout=compact)

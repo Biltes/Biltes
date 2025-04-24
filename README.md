@@ -50,7 +50,7 @@ Built using non-blocking sockets, epoll/select, and robust error handling.
 ## 📫 Get in Touch
 
 <br/>
-<p align="left">
+<p align="center">
 <a href='mailto:miguelbiltes@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
 <a href='https://www.linkedin.com/in/miguelbiltes/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
@@ -59,4 +59,4 @@ Built using non-blocking sockets, epoll/select, and robust error handling.
 </a>
 </p>
 
-<p align="left">Let’s build something great together 🚀</p>
+<p align="center">Let’s build something great together 🚀</p>

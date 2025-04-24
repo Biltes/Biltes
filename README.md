@@ -3,6 +3,16 @@
   💻 Software Developer | 🚀 42 Student | 🎮 Passionate about building creative and functional solutions
 </p>
 
+<br/>
+<p align="center">
+<a href='mailto:miguelbiltes@gmail.com' target="_blank"><img alt='Gmail' src='h>
+</a>
+<a href='https://www.linkedin.com/in/miguelbiltes/' target="_blank"><img alt='L>
+</a>
+<a href='https://profile.intra.42.fr/users/migupere' target="_blank"><img alt='>
+</a>
+</p>
+
 ---
 
 ##  About Me
@@ -46,19 +56,5 @@ Built using non-blocking sockets, epoll/select, and robust error handling.
 **Tech:** C++, POSIX sockets, networking, multithreading
 
 ---
-
-<div align="center">
-
-## 📫 Get in Touch
-
-<br/>
-<p align="center">
-<a href='mailto:miguelbiltes@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
-</a>
-<a href='https://www.linkedin.com/in/miguelbiltes/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-</a>
-<a href='https://profile.intra.42.fr/users/migupere' target="_blank"><img alt='42' src='https://img.shields.io/badge/42_Porto-100000?style=for-the-badge&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
-</a>
-</p>
 
 <p align="center">Let’s build something great together 🚀</p>

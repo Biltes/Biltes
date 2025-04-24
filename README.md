@@ -47,6 +47,8 @@ Built using non-blocking sockets, epoll/select, and robust error handling.
 
 ---
 
+<div align="center">
+
 ## 📫 Get in Touch
 
 <br/>

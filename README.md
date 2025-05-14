@@ -47,7 +47,7 @@ I’m currently looking for a **Junior Developer** opportunity where I can grow,
 ## 📌 Featured Projects
 
 ### 🎮 ft_Transcendence  
-> A real-time multiplayer game platform built with NestJS, PostgreSQL, and React.  
+> A real-time multiplayer game platform built with Node.js, SQLite, and Tailwind CSS.  
 Includes OAuth2 authentication, matchmaking, live chat, and responsive design.  
 **Tech:** Node.js, Tailwind CSS, SQLite, Avalanche, Solidity, Docker
 

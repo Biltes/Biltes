@@ -1,63 +1,101 @@
-<h1 align="center">Hi there 👋, I'm Miguel Biltes</h1>
+<h1 align="center">Miguel Biltes</h1>
 <p align="center">
-  💻 Software Developer | 🚀 42 Student | 🎮 Passionate about building creative and functional solutions
+  💻 <b>Embedded Systems & Automotive Software Engineer</b> | 🚗 <b>SEA:ME Fellow</b> | 🚀 <b>42 Graduate</b>
+</p>
+<p align="center">
+  <i>Leveraging an Economics background for High-Performance Engineering | Focused on Software-Defined Vehicles (SDV)</i>
 </p>
 
-<br/>
 <p align="center">
-<a href='mailto:miguelbiltes@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
-</a>
-<a href='https://www.linkedin.com/in/miguelbiltes/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-</a>
-<a href='https://profile.intra.42.fr/users/migupere' target="_blank"><img alt='42' src='https://img.shields.io/badge/42_Porto-100000?style=for-the-badge&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
-</a>
-</p></a>
+  <a href='mailto:miguelbiltes@gmail.com' target="_blank">
+    <img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/>
+  </a>
+  <a href='https://www.linkedin.com/in/miguelbiltes/' target="_blank">
+    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/>
+  </a>
+  <a href='https://profile.intra.42.fr/users/migupere' target="_blank">
+    <img alt='42' src='https://img.shields.io/badge/42_Porto-100000?style=for-the-badge&logo=42&logoColor=white&labelColor=000000&color=000000'/>
+  </a>
 </p>
 
 ---
 
-##  About Me
+## ⚡ Profile
 
-I'm a soon-to-be graduate from **42 Porto**, currently completing my final project — **ft_Transcendence**, a full-stack web application that combines real-time multiplayer gaming, authentication, and responsive design.
+I am an **Embedded Systems Engineer** currently participating in the **SEA:ME Fellowship**, developing software for the next generation of mobility. As a **42 Graduate**, I built a solid foundation in low-level systems programming (C/C++), which I now apply to safety-critical automotive architectures.
 
-Throughout my time at 42, I've built projects from low-level systems in C to full-stack web applications, always with a strong focus on code quality and problem solving.
-
-I’m currently looking for a **Junior Developer** opportunity where I can grow, contribute, and continue learning.
+- 🏎️ **Current Focus:** RTOS (Eclipse ThreadX), Automotive Grade Linux (AGL), Yocto Project, and Software Defined Vehicles (SDV).
+- 🔬 **Quality Engineering:** Designed CI/CD quality gates with GitHub Actions for firmware C — enforcing 90% coverage threshold with tamper-detection baseline, currently at 100% coverage.
+- 🦀 **Rust:** Contributing to a team-driven Rust integration within the AGL layer for vehicle motion and motor configuration; participating in the ongoing strategy to migrate firmware from C to Rust (`no_std`).
+- 🧠 **Edge AI:** Deploying computer vision models on **Hailo-8** AI processors for automotive vision pipelines.
+- 🌍 **Languages:** Native Portuguese · C1 English · B1 German · B1 Spanish
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
-![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=9445FC)
-![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
-![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3893F5)
-![WordPress](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=4C8CD5)
-![WordPress](https://img.shields.io/badge/wordpress-0D1117.svg?style=for-the-badge&logo=wordpress&logoColor=4C8CD5)
-![NGINX](https://img.shields.io/badge/nginx-0D1117.svg?style=for-the-badge&logo=nginx&logoColor=green)
-![PHP](https://img.shields.io/badge/php-0D1117.svg?style=for-the-badge&logo=php&logoColor=84E8FF)
-![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
-![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=ECC91C)
-![MySQL](https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=4479A1)
+### 🚗 Automotive & Real-Time Systems
+
+| Area | Technologies |
+| :--- | :--- |
+| **RTOS & Hardware** | Eclipse ThreadX, STM32, STM32CubeIDE, Raspberry Pi, CAN bus, I2C, SPI |
+| **OS & Distros** | Automotive Grade Linux (AGL), Yocto Project, Bitbake |
+| **Frameworks** | TSF (Trustable Software Framework), Eclipse SDV, ISO 26262, AUTOSAR Adaptive |
+
+### ⚙️ Core Engineering & Debugging
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | C, C++20, Rust (familiar), Python, Shell |
+| **Debug & Profiling** | SEGGER SystemView / Ozone, STM32CubeIDE, GDB, Logic Analyzers |
+| **Testing & QA** | MISRA Static Analysis, V-Model Lifecycle, Unit Testing, gcov/lcov, GitHub Actions CI |
+| **Build & DevOps** | CMake, Cross-Compilation (ARM), CI/CD Pipelines, Git |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎮 ft_Transcendence  
-> A real-time multiplayer game platform built with Node.js, SQLite, and Tailwind CSS.  
-Includes OAuth2 authentication, matchmaking, live chat, and responsive design.  
-**Tech:** Node.js, Tailwind CSS, SQLite, Avalanche, Solidity, Docker
+### 🏎️ SEA:ME — Automotive Engineering Modules
+> Collaborative industry-partnered program ·
+> [Repository](https://github.com/SEAME-pt/Team04_DrivaPi) ·
+> [My contributions](https://github.com/SEAME-pt/Team04_DrivaPi/pulls?q=is%3Apr+author%3ABiltes+is%3Amerged) ·
+> Multiple merged PRs · peer code reviews.
 
-### 💬 ft_IRC (Internet Relay Chat Server)  
-> A fully functional IRC server implemented in C, handling multiple clients, channels, and IRC protocol compliance.  
-Built using non-blocking sockets, epoll/select, and robust error handling.  
-**Tech:** C++, POSIX sockets, networking, multithreading
+- **RTOS Optimization** — multi-threaded Eclipse ThreadX applications with SEGGER SystemView profiling; resolved priority inversions under ASIL-B-equivalent constraints.
+- **TSF & SDV** — applied Trustable Software Framework aligned with ISO 26262 and AUTOSAR Adaptive Platform; full V-Model testing lifecycle including MISRA static analysis.
+- **CI/CD Quality Gates** — designed GitHub Actions pipelines for automated unit testing of firmware C on every PR and merge; enforced 90% coverage threshold via versioned baseline script with tamper-detection, currently at 100% firmware coverage.
+- **Yocto/AGL** — custom Linux layers with Bitbake, cross-compilation for ARM/STM32 targets.
+- **Rust Integration** — contributing to team-driven Rust adoption in the AGL layer for vehicle motion and motor configuration; reviewing strategy for future firmware migration.
+- **Edge AI** — integrated Hailo-8 AI accelerators for real-time automotive computer vision.
 
 ---
 
-## And these are my Github status
-![](https://github-readme-stats.vercel.app/api?username=biltes&show_icons=true&hide_border=true&hide_title=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biltes&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🐚 [Minishell · C](https://github.com/Biltes/minishell)
+> POSIX-compliant shell implementing process forking, signal handling, and pipe
+> redirection via direct syscalls (`execve`, `fork`, `wait`). Deep focus on IPC
+> and resource isolation — directly applicable to embedded Linux process management.
+
+---
+
+### 📡 [IRC Server · C++](https://github.com/Bruno0798/42_IRC)
+> Multi-client TCP server using non-blocking I/O (`poll()`) and a protocol state
+> machine for full IRC compliance. Handles concurrent connections with robust
+> resource management and real-time event dispatch — demonstrating concurrency
+> patterns relevant to embedded network stacks.
+
+---
+
+### 🎮 [ft_Transcendence · Full-Stack](https://github.com/diogodematos/Pong-Transcender)
+> Real-time multiplayer platform with 3D gameplay, remote players, and tournament
+> management. Implemented WebSocket communication, OAuth2 authentication, and
+> full user management system.
+> Node.js · SQLite · Tailwind CSS · Docker · Solidity
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=biltes&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biltes&layout=compact&theme=dark&hide_border=true&include_all_commits=true" height="150"/>
+</p>
